@@ -1,0 +1,11 @@
+# --- Runtime data & logs (never part of this project) ---
+*.log
+dump.rdb
+*.rdb
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
